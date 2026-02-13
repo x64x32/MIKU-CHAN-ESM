@@ -91,27 +91,14 @@ npm start
 
 ## TERMS – LOOK HERE!
 
-1. DONT SELL THIS SCRIPT ! OR U WILL DIE IN [BINBAZ](https://binbaz.or.id)  
+1. DONT SELL THIS SCRIPT ! 
 2. DONT FORGET TO STAR THIS REPOSITORY !  
-3. FOLLOW MY [GITHUB](https://github.com/Xmorinori) !  
-4. USE WITH YOUR OWN RISK !  
+3. USE WITH YOUR OWN RISK !  
 
 ## STATUS BOT
 
-KALAU INGIN MELIHAT BOT SEDANG DOWN ATAU TIDAK, KLIK TAUTAN BERIKUT:
+CHECK UPTIME SERVER STATUS:
 
-[CEK STATUS BOT](https://maintenance.advinservers.com/cmdu86fmy00yfy6jgi3h8qvc3)
-
----------
-
-### HONORARY THANX TO
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets/Baileys)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=100)](https://github.com/ImYanXiao)
-[![Xnuvers007](https://github.com/Xnuvers007.png?size=100)](https://github.com/Xnuvers007)
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
-
-INSPIRED BY [COLORFUL STAGE! A MIKU WHO CANT SING](https://en.wikipedia.org/wiki/Colorful_Stage!_The_Movie:_A_Miku_Who_Can%27t_Sing)
+[BOT STATUS](https://maintenance.advinservers.com/cmdu86fmy00yfy6jgi3h8qvc3)
 
 ---------
