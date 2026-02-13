@@ -8,7 +8,7 @@
 <h1 align="center">
   MIKU-CHAN ESM <br><BR>
   <a href="https://github.com/Xmorinori">
-    <img title="Author" src="https://img.shields.io/badge/AUTHOR-Xmorinori-purple.svg?style=for-the-badge&logo=github">
+    <img title="Author" src="https://img.shields.io/badge/AUTHOR-AUREL-purple.svg?style=for-the-badge&logo=github">
   </a>
 </h1>
 
@@ -58,10 +58,10 @@
 
 ## REQUIREMENTS
 
-* NodeJS (v18 up) (v20 LTS)
-* FFMPEG @gyan.dev
+* NODEJS 18UP
+* FFMPEG 
 * IMAGEMAGICK EXE OPT
-* NodeJS KNOWLEDGE 🗡
+* KNOWLEDGE
 
 ## HOW TO FIX ERROR?
 
